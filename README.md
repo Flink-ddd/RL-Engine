@@ -1,12 +1,20 @@
 # RL-Engine
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Flink-ddd/RL-Engine/main/assets/logo.png" width="200" alt="RL-Engine Logo">
+  <img src="./docs/assets/rl-engine-log.png" width="220" alt="RL-Engine Logo">
 </p>
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Hardware](https://img.shields.io/badge/Hardware-AMD%20ROCm%20%7C%20NVIDIA%20CUDA-orange)](https://github.com/Flink-ddd/RL-Engine)
-[![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark%20L2-blueviolet)](https://github.com/Flink-ddd)
+<h1 align="center">RL-Engine</h1>
+
+<p align="center">
+  <strong>Extreme Infrastructure for GRPO & Large-Scale Reinforcement Learning.</strong>
+</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
+  <a href="https://github.com/Flink-ddd/RL-Engine"><img src="https://img.shields.io/badge/Hardware-NVIDIA%20CUDA%20%7C%20AMD%20ROCm-orange" alt="Hardware"></a>
+  <a href="https://github.com/Flink-ddd"><img src="https://img.shields.io/badge/GitHub-Pull%20Shark%20x16-blueviolet" alt="Pull Shark"></a>
+</p>
 
 **RL-Engine** is a high-performance, memory-efficient infrastructure for Reinforcement Learning (RL) post-training. It eliminates the memory and latency bottlenecks in Large Language Model (LLM) alignment, providing specialized kernels for algorithms like **GRPO**, **PPO**, and **DPO**.
 
